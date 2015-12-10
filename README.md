@@ -10,7 +10,7 @@ A comprehensive demo of python package development.
 
 ## Tools
 
-- python version control, [virtualenvwrapper](https://virtualenvwrapper.readthedocs.org/en/latest/)
+- python version control, [pyenv](https://github.com/yyuu/pyenv)
 - project coding style consistency, [editorconfig](http://editorconfig.org/)
 - docstring styling, [google docstring style](http://sphinxcontrib-napoleon.readthedocs.org/en/latest/example_google.html)
 - docstring test, [doctest](https://docs.python.org/2/library/doctest.html)
